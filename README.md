@@ -1,1 +1,1 @@
-[![Watch the video](https://img.youtube.com/vi/sDWJxULtcOI/0.jpg)](https://www.youtube.com/watch?v=sDWJxULtcOI)      
+![control structire](https://raw.githubusercontent.com/ViktorAnchutin/FCND-Simple-Quarotor-Controller/master/images/Control_structure.jpg)
