@@ -1,0 +1,5 @@
+﻿  Скопировано файлов: 0.
+  QuadControl.cpp
+c:\edu\control\udacity flying car\control prj\fcnd-controls-cpp-master_v1\src\quadcontrol.cpp(115): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\edu\control\udacity flying car\control prj\fcnd-controls-cpp-master_v1\src\quadcontrol.cpp(116): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Simulator.vcxproj -> C:\edu\control\udacity flying car\control prj\FCND-Controls-CPP-master_V1\project\x64\Debug\Simulator.exe
