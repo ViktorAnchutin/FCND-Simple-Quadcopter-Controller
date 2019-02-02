@@ -16,4 +16,17 @@ Functiomal scheme:
 
 
 
+### Position controller
+
+FCND-Simple-Quadrotor-Controller/prj/src/QuadControl.cpp:
+```C++
+V3F QuadControl::PositionControl(V3F posCmd, V3F pos, V3F vel)
+```
+
+Functional scheme:
+
+![](https://github.com/ViktorAnchutin/FCND-Simple-Quadrotor-Controller/blob/master/img/position.png?raw=true)
+
+
+
 
