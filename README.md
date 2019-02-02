@@ -7,7 +7,7 @@
 
 FCND-Simple-Quadrotor-Controller/prj/src/QuadControl.cpp:
 ```C++
-float QuadControl::AltitudeControl(float posZCmd, float posZ);
+float QuadControl::AltitudeControl(float posZCmd, float posZ)
 ```
 
 Functiomal scheme:
@@ -27,6 +27,17 @@ Functional scheme:
 
 ![](https://github.com/ViktorAnchutin/FCND-Simple-Quadrotor-Controller/blob/master/img/position.png?raw=true)
 
+
+### Roll-Pitch controller
+
+FCND-Simple-Quadrotor-Controller/prj/src/QuadControl.cpp:
+```C++
+V3F QuadControl::RollPitchControl(V3F des_angles_I_frame, Quaternion<float> attitude)
+```
+
+Functional scheme:
+
+![](https://github.com/ViktorAnchutin/FCND-Simple-Quadrotor-Controller/blob/master/img/rollpitch.PNG?raw=true)
 
 
 
