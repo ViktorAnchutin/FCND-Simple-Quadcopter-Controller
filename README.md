@@ -3,6 +3,4 @@
 ![control structire](https://github.com/ViktorAnchutin/FCND-Simple-Quadrotor-Controller/blob/master/img/controller.png?raw=true)
 
 
-```C++
-float QuadControl::AltitudeControl(float posZCmd, float posZ)
-```
+
