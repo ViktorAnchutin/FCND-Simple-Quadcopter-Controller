@@ -1,3 +1,5 @@
 img/* linguist-vendored
 mavlink/* linguist-vendored
 img/* linguist-vendored
+*.c linguist-vendored
+*.h linguist-vendored
